@@ -1,0 +1,20 @@
+.class-example {
+  background-color: rgba(250, 0, 0, 0.5);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.4em;
+}
+
+.class-example.cooler {
+  font-size: 2em;
+}
+
+#id-one {
+  color: blue;
+  font-size: 3em;
+}
+
+#id-two {
+  background-color: rgba(0, 250, 0, 0.6);
+  font-size: 2em;
+  font-weight: bold;
+}
